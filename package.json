@@ -1,0 +1,12 @@
+{
+  "name": "backend-missao-aprendizado-iniciante-hello-world-com-expressjs",
+  "version": "1.0.0",
+  "description": "Projeto da Missão de Aprendizado da profissão Dev Backend JavaScript, nível Iniciante: Hello World com ExpressJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
